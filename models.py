@@ -19,6 +19,7 @@ class MovieCastLink(SQLModel, table=True):
 
 class Movie(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
+    imdb_id: str = Field(index=True, unique=True)
     name: str = Field(index=True)
     duration: float  # in minutes
     rating: float  # should be between 0.0 and 10.0 (or based on your scale)

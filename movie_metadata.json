@@ -1,16 +1,162 @@
 [
   {
-    "name": "Unknown",
+    "imdb_id": "tt34388152",
+    "name": "Officer on Duty",
     "duration": 2.0,
-    "rating": 0.0,
-    "casts": [],
-    "category": "Unknown",
+    "rating": 7.5,
+    "casts": [
+      {
+        "name": "Kunchacko Boban",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNGRjNjFjYjUtNzAyNC00NmFmLTljODMtMGQ1Y2VmN2Q4NGEwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Priyamani",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNmQ1ZDA1MmYtMGMxOS00OTIxLWEzZDEtODA3ODUyNDgwYTk0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Jagadish",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNmRlMzcyNGYtNTUxNC00YzdlLTlhNjUtMTI1MmE5ZDAwNjJmXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Vaisakh Shankar",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BM2Y5Nzc3YWItYzhhOC00ZWMwLWJiODAtNDE5ZTc3N2Y1ODk0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Vishak Nair",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BY2Q5OWU0OTktNzAzOS00M2IzLWE0NDgtMWQ2ZDBjMmMwMDA0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Ramzan Muhammed",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzI1MWQ2NzAtNTUzNy00ZjdkLTgyYjktNWNlYjU1M2M1MzAwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Vishnu G Varrier",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Leya Mammen",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Aiswarya Raj",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Amit Eapen",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Meenakshi",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYjZmMDYyZjYtMGU1Yi00NmM0LWE3OGMtMDY3YmE1YjUzNzc4XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Eithal Evana Sherin",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Anju Abraham",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Jithu Ashraf",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Unni Lalu",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Henna Bella",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "C.J. Antony",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Manoj K.U.",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Jaya Kurup",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNWM4MzZhOWQtMGNkMi00N2VjLWFhMTgtZjBjM2M3N2E0YTJhXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Srikant Murali",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjk1NmVkMzYtMjljYy00MmJkLTllOTctZmI2ODUzZDVjOGI3XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Nileen Sandra",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMmY4NDEwODctMDU1MS00MGZmLWExMGItMzU0YWU2ODk1ZWI2XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Reghunath Paleri",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Jain Andrews",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Nidhi Pattayil",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Sheethal Thamby",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Muthumani",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNmE1OTk0YzMtMmY0Ni00ZDRmLWE1N2YtYjZhNzhmM2JiYWU1XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Kiran Peethambaran",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BM2NjNjExODEtOWZjMC00MjhiLWI1ZDctYTMyNzAzZjc4NDc3XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Jithu Ashraf",
+        "role": "Director",
+        "image_url": null
+      }
+    ],
+    "category": "Action",
     "size": 4.82,
-    "published_year": 1970,
+    "published_year": 2025,
     "filename": "tt34388152.mkv",
-    "thumbnail": "N/A",
-    "plot": "",
-    "synopsis": "",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzBjODQ3MDctZWJlYi00ZmIyLThhZjItZGE3MGI3MWZjNGMxXkEyXkFqcGc@._V1_SY150_CR9,0,101,150_.jpg",
+    "plot": [
+      "A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake."
+    ],
+    "synopsis": [
+      "In Bangalore, Police Inspector Joseph (Jithu Ashraf) of the Karnataka Police is found dead in his home after leaving a suicide note orchestrated by a gang of drug addicts led by Christy (Vishak Nair).Eight months later, in Kerala, Circle Inspector Harishankar / Hari (Kunchacko Boban) is a hot-headed and impulsive officer who was recently demoted from his Deputy Superintendent of Police (DYSP) rank after assaulting an IPS superior. Hari is a brutal officer, who does not hesitate from using physical force on female suspects as well. DYSP Shahul Raj (Vaisakh Shankar) is the only senior officer who protects Hari from official reprimands against his actions.Hari is subsequently assigned as the Inspector Station House Officer (SHO) of the Aluva police station. He receives a complaint about a KSRTC bus conductor named Chandrababu (Jagadish) attempting to mortgage an imitation gold chain. Chandrababu says that he had bought the chain for his daughter's birthday, but when he went to mortgage it, the bank said that it is made of fake gold. Chandrababu claims that it is claims who switched the chain. He claims to have bought the chain on Aug 2nd, 2022, from a reputed jewelry store.\nChandrababu says that he wanted to mortgage the chain because he needed funds for his wife's surgery.\nThis seemingly minor case leads him to investigate a series of gruesome crimes, which are revealed to be connected to his own past personal tragedy.Hari suffers from PTSD following the suicide of his elder daughter, Nila (Meenakshi Anoop), which causes him to express his trauma violently, particularly toward his wife, Geetha (Priyamani). Upon investigation, Hari finds that Chandrababu is telling the truth, and he indeed bought the gold chain. Hari discovers that Chandrababu's teenage daughter had switched the chain herself after being sexually exploited by an unknown perpetrator.Hari searches for the original chain at all the gold and pawn shops in the city and finds that it had indeed been pawned by a woman named Haseena. Haseena is found to be out of town, but she had pawned another chain at the same time, which was originally bought by Jospeh. Hari meets Joseph's wife (Sheethal Thambi) who says that she is convinced that her husband did not commit suicide. She also says that the chain was bought for her daughter Angel Joseph (Angel), who claims that it was snatched by a biker. Hari suspects that Angel was sexually exploited too.Along with these 2 chains, there was a 3rd chain as well, and as Hari starts to get details of that chain, the matter is escalated to Shahul. Shahul tries to send Hari for training in Hyderabad, but he refuses.Hari attempts to file a POCSO case, but before he can proceed, the girl commits suicide by hanging. Chandrababu blames Hari for his rude behavior and his daughter's death. Witnessing her death triggers Hari's buried trauma, revealing that Nila had also been sexually exploited in the same way as Chandrababu's daughter. In a fit of rage, Hari kills a drug addict named Shyam (Ramzan Muhammed) in custody after discovering a sex tape of Nila on his laptop. Shyam also had obscene video of Inspector Thomas' daughter as well and was taunting them both.\nOvercome with grief, Hari attempts to confront Nila, but she had already hung herself in her room. The trauma causes him to suffer amnesia regarding the incident. The 3rd chain recovered belonged to Nila.In the present, Christy and his gang goes to Assistant Sub-Inspector Thomas, a recently released policeman who had taken the blame for Shyam's custodial death. Thomas had done so in an attempt to protect Hari since his own daughter had also been exploited by Shyam.To avenge Shyam's death, Christy and his gang murders Thomas and his wife, but before dying, Thomas's wife reveals that Hari was the one who actually killed Shyam. Thomas was also livid at his own daughter's death and exploitation and believed that Hari did the right thing.\nThe gang includes Christy, Lance (Amit Eapen), Anna, Celine, and Sathya (Vishnu G Varrier).Hari looks at the crime scene and deduces that Thomas and his wife did not commit suicide by poisoning themselves and were rather murdered. He points to several clues that do not corroborate the suicide theory, such as the waste bin had 4 lemons squeezed which means drinks were prepared for more than just 2 people.Hari speaks to Angel and wants to know who exploited her. She says that she was drugged and sexually assaulted by a Tamil boy who took away her gold chain as well. Hari then tracks down Haseena who says that she found the 3 chains in some abandoned clothes at a retail store. Checking the CCTV camera of the store, Hari finds that the clothes belonged to Anna.\nAs Hari heads to the store, he is tracked by Christy's gang. Christy decides that since Anna has been identified, they should retreat to Bangalore.Hari tracks down Anna (Aishwarya Raj), a member of Christy's gang, following her to Bangalore. A chase ensues, and Anna is fatally struck by a truck. Later, Christy and his gang attempt to ambush Hari in the mortuary, but he successfully fends them off after a brutal fight.As the investigation unfolds, Hari discovers that Joseph had once arrested Shyam, Celine (Leya Mammen), Anna, after catching them for using drugs and slapping a girl's mother on a bus where Chandrababu was the conductor. While in custody, Joseph sexually assaulted both Anna and Celine, leading Christy's gang to seek revenge on those responsible. Their revenge plan involved exploiting the women closest to those who contributed to their arrest. They began by targeting Joseph's daughter, Chandrababu's daughter and also Nila.\nChandrababu is met by Shahul and shown the evidence, but he is adamant that only Hari is responsible for killing his daughter and that the police are trying to protect him.It is revealed that Geetha and Nila were the mother and daughter, who had been slapped by them and Geetha was the one who initially confronted the gang, making them a target. Geetha believes that Hari is trying to deflect responsibility for Nila's death to someone else and leave him.Christy stabs Chandrababu and eventually tracks down Geetha and her younger daughter Minnu Hari (Eithal Evana Sherin), at her father's farmhouse. Christy and his gang attempts to kill them, but Geetha's father (Raghunath Paleri), a former army officer, fights back. He is ultimately killed by Christy. Geetha and Minnu tries to escape from them, but Christy follows them alone and he stabs Geetha. Minnu escapes from him but he follows her and reaches a small building in the woods. His gang also arrives and before they can make a move, Hari arrives and a final showdown ensues. Hari brutally beats them. He nearly kills Christy for what he did to his and Chandrababu's family.A few months later, Hari got back to his normal life and began to focus more on his family. Meanwhile, Christy and his gang is released on bail and plans their next attempt to kill Hari. However, Hari anticipates their move and laces their drugs with poison, ultimately killing the entire gang."
+    ],
     "subtitles": "Not Available",
     "location": "/Users/aniketsarkar/Desktop/movies/tt34388152.mkv"
   }

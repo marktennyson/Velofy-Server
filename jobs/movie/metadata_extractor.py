@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
-from typing import Optional, TypedDict, List, Any, Dict, Tuple
+from interfaces import MovieMetadata, MovieRecord, Cast
+from typing import Optional, List, Any, Dict, Tuple
 from imdb import Cinemagoer  # type: ignore
 import typer
 
@@ -11,60 +12,27 @@ ia: Any = Cinemagoer()
 ROOT_MEDIA_PATH: str = "/Users/aniketsarkar/Desktop/movies"  # ← Change this
 
 
-# ================= Typed Models =================
-
-class ParsedMovie(TypedDict):
-    name: str
-    year: int
-    imdb_id: str
-    resolution: str
-
-
-class MovieMetadata(TypedDict):
-    rating: float
-    plot: str
-    synopsis: str
-    thumbnail: str
-    category: str
-    name: str
-    year: int
-
-
-class MovieRecord(TypedDict):
-    name: str
-    duration: float
-    rating: float
-    casts: "List[Cast]"
-    category: str
-    size: float
-    published_year: int
-    filename: str
-    thumbnail: str
-    plot: str
-    synopsis: str
-    subtitles: str
-    location: str
-
-
-class Cast(TypedDict):
-    name: str
-    role: str  # e.g., Actor, Director
-    image_url: Optional[str]
-
-
-# ================= Utility Functions =================
-
 def extract_casts(movie_obj: Dict[str, Any]) -> List[Cast]:
     casts: List[Cast] = []
     for person in movie_obj.get('cast', []):
-        personObj = ia.search_person(person.get("name"))
+        msg = typer.style("✅ Parsing Details for: ", fg=typer.colors.BRIGHT_WHITE)+typer.style(f"{person.get("name")}", fg=typer.colors.BRIGHT_GREEN)
+        typer.echo(msg)
+        try:
+            personObj = ia.search_person(person.get("name"))
+        except:
+            personObj = None
         casts.append({
             "name": person.get('name', 'Unknown'),
             "role": "Actor",
             "image_url": personObj[0].get('full-size headshot', None) if personObj else None,
         })
     for person in movie_obj.get('director', []):
-        personObj = ia.search_person(person.get("name"))
+        msg = typer.style("✅ Parsing Details for: ", fg=typer.colors.BRIGHT_WHITE)+typer.style(f"{person.get("name")}", fg=typer.colors.BRIGHT_GREEN)
+        typer.echo(msg)
+        try:
+            personObj = ia.search_person(person.get("name"))
+        except:
+            personObj = None
         casts.append({
             "name": person.get('name', 'Unknown'),
             "role": "Director",
@@ -118,18 +86,27 @@ def download_subtitle_stub() -> str:
 # ================= Main Processor =================
 
 def process_movies(directory: Path) -> List[MovieRecord]:
+    typer.echo(typer.style(f"\n🔍 Scanning directory: {directory}", fg=typer.colors.CYAN))
     movie_data: List[MovieRecord] = []
+    total_files = 0
     for file in directory.iterdir():
         if file.is_file() and file.suffix.lower() in [".mp4", ".mkv", ".avi"]:
+            total_files += 1
+            typer.echo(typer.style(f"➡️ Found media file: {file.name}", fg=typer.colors.BLUE))
             try:
                 imdb_id: Optional[str] = get_imdb_id_from_filename(file.name)
                 if not imdb_id:
-                    typer.echo(typer.style(f"[SKIP] Invalid filename format: {file.name}", fg=typer.colors.YELLOW))
+                    typer.echo(typer.style(f"[SKIP] Filename does not contain IMDb ID: {file.name}", fg=typer.colors.YELLOW))
                     continue
+
+                typer.echo(f"🔎 Fetching metadata for {imdb_id}...")
 
                 metadata, casts = get_movie_metadata(imdb_id)
 
+                typer.echo(f"📦 Assembling movie record for '{metadata['name']}'...")
+
                 movie_record: MovieRecord = {
+                    "imdb_id": imdb_id,
                     "name": metadata["name"],
                     "duration": 2.0,  # Placeholder
                     "rating": metadata["rating"],
@@ -146,21 +123,26 @@ def process_movies(directory: Path) -> List[MovieRecord]:
                 }
 
                 movie_data.append(movie_record)
-                typer.echo(typer.style(f"[DONE] Processed: {file.name}", fg=typer.colors.GREEN))
+                typer.secho(f"[DONE] Processed: {file.name}\n", fg=typer.colors.GREEN)
             except Exception as e:
-                typer.echo(typer.style(f"[ERROR] Failed to process {file.name}: {e}", fg=typer.colors.RED))
+                typer.secho(f"[ERROR] Failed to process {file.name}: {e}\n", fg=typer.colors.RED)
+
+    typer.secho(f"📁 Total media files processed: {len(movie_data)} out of {total_files}", fg=typer.colors.BRIGHT_BLUE)
     return movie_data
 
 
-# ================= Entry Point =================
-
 @app.command()
 def main(media_path: str = ROOT_MEDIA_PATH):
+    typer.secho("🎬 Starting movie metadata processor...\n", fg=typer.colors.BRIGHT_MAGENTA)
+    
     movies = process_movies(Path(media_path))
+
+    typer.echo("📝 Saving metadata to JSON...")
     with open("movie_metadata.json", "w", encoding="utf-8") as f:
         json.dump(movies, f, indent=2, ensure_ascii=False)
-    typer.echo(typer.style("\n✅ Movie data exported to movie_metadata.json", fg=typer.colors.BRIGHT_GREEN))
 
+    typer.echo(typer.style("✅ Movie data exported to movie_metadata.json", fg=typer.colors.BRIGHT_GREEN))
+    typer.echo(typer.style("\n🏁 Processing complete!\n", fg=typer.colors.BRIGHT_CYAN))
 
 if __name__ == "__main__":
     app()
