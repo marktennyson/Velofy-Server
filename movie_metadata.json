@@ -159,5 +159,200 @@
     ],
     "subtitles": "Not Available",
     "location": "/Users/aniketsarkar/Desktop/movies/tt34388152.mkv"
+  },
+  {
+    "imdb_id": "tt0063023",
+    "name": "The Adventures of Goopy and Bagha",
+    "duration": 2.0,
+    "rating": 8.7,
+    "casts": [
+      {
+        "name": "Tapan Chatterjee",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNWI0NDNkNjctYzE3Yi00MTY2LWI3YmUtMGUyYjhkOTAyMjlkXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Rabi Ghosh",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZmYzNWEwZmQtOWIyNi00NmZkLWFjOTItMTUyYTk1M2I1ODEzXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Ajoy Banerjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Iva Banerjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Ratan Banerjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Durgadas Bannerjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Ramen Bhaduri",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Binoy Bose",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Dilip Bose",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Govinda Chakravarti",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Abani Chatterjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Bhaswati Chatterjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kartik Chatterjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Nripati Chatterjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Santi Chatterjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Harindranath Chattopadhyay",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0M2EwMzYtM2M0MS00OGRjLTgyOTctZGE0ZGE5Y2Y3NzRiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Balai Das",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Gopal Dey",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Binoy Dutta",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Santosh Dutta",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Shailen Ganguli",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Rajkumar Lahiri",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Preeti Majumdar",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Ashok Mitra",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Tarun Mitra",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Abani Mukherjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Haridhan Mukherjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kamu Mukherjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Prasad Mukherjee",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Khagen Pathak",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Chinmoy Roy",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZDhjYjY2NWQtZTE2Zi00ZTBjLThhMzUtYmVmZTNmZjgyYTk2XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Jahar Roy",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Joykrishna Sanyal",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mani Srimani",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Satyajit Ray",
+        "role": "Director",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MDA1ODIzMF5BMl5BanBnXkFtZTcwNDU0OTkxOA@@.jpg"
+      }
+    ],
+    "category": "Adventure",
+    "size": 0.78,
+    "published_year": 1969,
+    "filename": "tt0063023.mp4",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODE1YWQ3N2UtMzZkYS00NTVkLTk4YzgtMmRlNmY3ZTI1NTgzXkEyXkFqcGc@._V1_SY150_CR4,0,101,150_.jpg",
+    "plot": [
+      "Goopy wants to sing, and Bagha wants to play the dhol. They meet accidentally and are helped by King of Ghosts. With newly endowed abilities, they land in kingdom of Shundi, where their adventure begins.",
+      "Goopy and Bagha are two characters who meet in a jungle being banished by the King of their village. They by chance meet the King of Ghosts and he gives them three boons for their simplicity and innocence. The first boon: they will get food whenever they want; the second boon: they can go anywhere they want; and the third boon: they will master art of music and everybody will be spellbound and motionless while they sing. Only for the first two boons they have to clap each other's hand. They travel by clapping to the kingdom of Shundi to participate in a music competition, which they win, and they become the King's court musicians. They find out that all the people in Shundi except the family of the King were dumb because of an epidemic. Unfortunately, in the kingdom of Halla, governed by the King of Shundi's brother, the minister drugs the innocent King and prepares to wage war against Shundi. He engages his chemist to prepare a cure for the dumbness of the people of Shundi. The reason is strange. According to him, \"If the people of Shundi don't say what they need, then how can I bar them from having that?\" Gupi and Bagha journey to Halla and things start to happen.—Somak Dutta"
+    ],
+    "synopsis": "",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/movies/tt0063023.mp4"
   }
 ]
