@@ -1,4 +1,4 @@
-🎬 Velofy Server
+🎬 Velofy The Home Media Server
 ================
 
 **Velofy** is a robust, extensible backend server for **media management and streaming**, built with [FastAPI](https://fastapi.tiangolo.com/). It provides 🔒 secure user authentication, 🎥 efficient media handling, and a modern API for web and mobile clients. Designed for rapid development and seamless integration with your home media setup, Velofy is your personal Netflix-style media server. 🚀
