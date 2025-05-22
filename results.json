@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Jurassic World Rebirth",
+    "duration": 2.79,
+    "rating": 9.4,
+    "casts": {
+      
+    },
+    "category": "Sci-Fi",
+    "size": 2.01,
+    "published_year": 2018,
+    "filename": "Jurassic World Rebirth.mp4",
+    "thumbnail": "https://example.com/thumbnails/Jurassic World Rebirth.jpg",
+    "description": "Jurassic World Rebirth is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/Jurassic World Rebirth.mp4"
+  },
+  {
+    "name": "Predator",
+    "duration": 3.88,
+    "rating": 9.5,
+    "casts": {
+      "lead": "Emily Blunt",
+      "support": [
+        "Jodie Comer",
+        "Idris Elba"
+      ]
+    },
+    "category": "Sci-Fi",
+    "size": 11.8,
+    "published_year": 2016,
+    "filename": "Predator.mp4",
+    "thumbnail": "https://example.com/thumbnails/Predator.jpg",
+    "description": "Predator is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/Predator.mp4"
+  },
+  {
+    "name": "The Titan",
+    "duration": 3.67,
+    "rating": 8.4,
+    "casts": {
+      "lead": "Tom Cruise",
+      "support": [
+        "Jodie Comer",
+        "Tessa Thompson"
+      ]
+    },
+    "category": "Sci-Fi",
+    "size": 28.34,
+    "published_year": 2024,
+    "filename": "The Titan.mp4",
+    "thumbnail": "https://example.com/thumbnails/The Titan.jpg",
+    "description": "The Titan is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/The Titan.mp4"
+  },
+  {
+    "name": "Mickey 17",
+    "duration": 3.69,
+    "rating": 9.2,
+    "casts": {
+      "lead": "Tom Cruise",
+      "support": [
+        "Tessa Thompson",
+        "Oscar Isaac"
+      ]
+    },
+    "category": "Sci-Fi",
+    "size": 12.89,
+    "published_year": 2021,
+    "filename": "Mickey 17.mp4",
+    "thumbnail": "https://example.com/thumbnails/Mickey 17.jpg",
+    "description": "Mickey 17 is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/Mickey 17.mp4"
+  },
+  {
+    "name": "Mortal Engines",
+    "duration": 3.28,
+    "rating": 6.1,
+    "casts": {
+      "lead": "John Boyega",
+      "support": [
+        "Jodie Comer",
+        "Oscar Isaac"
+      ]
+    },
+    "category": "Sci-Fi",
+    "size": 44.22,
+    "published_year": 2022,
+    "filename": "Mortal Engines.mp4",
+    "thumbnail": "https://example.com/thumbnails/Mortal Engines.jpg",
+    "description": "Mortal Engines is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/Mortal Engines.mp4"
+  },
+  {
+    "name": "Orbital",
+    "duration": 2.31,
+    "rating": 9.0,
+    "casts": {
+      "lead": "Chris Pratt",
+      "support": [
+        "Tessa Thompson",
+        "Benedict Wong"
+      ]
+    },
+    "category": "Sci-Fi",
+    "size": 39.64,
+    "published_year": 2016,
+    "filename": "Orbital.mp4",
+    "thumbnail": "https://example.com/thumbnails/Orbital.jpg",
+    "description": "Orbital is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/Orbital.mp4"
+  },
+  {
+    "name": "The Blackout",
+    "duration": 3.19,
+    "rating": 7.0,
+    "casts": {
+      "lead": "John Boyega",
+      "support": [
+        "Tessa Thompson",
+        "Idris Elba"
+      ]
+    },
+    "category": "Sci-Fi",
+    "size": 21.02,
+    "published_year": 2019,
+    "filename": "THE BLACKOUT.mp4",
+    "thumbnail": "https://example.com/thumbnails/THE BLACKOUT.jpg",
+    "description": "The Blackout is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/THE BLACKOUT.mp4"
+  },
+  {
+    "name": "2073 Official Trailer",
+    "duration": 2.6,
+    "rating": 9.2,
+    "casts": {
+      "lead": "Zoe Saldana",
+      "support": [
+        "Oscar Isaac",
+        "Benedict Wong"
+      ]
+    },
+    "category": "Sci-Fi",
+    "size": 44.83,
+    "published_year": 2021,
+    "filename": "2073 - Official Trailer.mp4",
+    "thumbnail": "https://example.com/thumbnails/2073 - Official Trailer.jpg",
+    "description": "2073 Official Trailer is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/2073 - Official Trailer.mp4"
+  },
+  {
+    "name": "28 Years Later",
+    "duration": 2.94,
+    "rating": 8.2,
+    "casts": {
+      "lead": "John Boyega",
+      "support": [
+        "Benedict Wong",
+        "Tessa Thompson"
+      ]
+    },
+    "category": "Sci-Fi",
+    "size": 41.29,
+    "published_year": 2019,
+    "filename": "28 YEARS LATER.mp4",
+    "thumbnail": "https://example.com/thumbnails/28 YEARS LATER.jpg",
+    "description": "28 Years Later is a gripping sci-fi trailer that teases a thrilling future adventure.",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/Projects/Scripts/trailers/28 YEARS LATER.mp4"
+  }
+]
