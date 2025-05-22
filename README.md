@@ -1,197 +1,194 @@
-# Velofy Server
+🎬 Velofy Server
+================
 
-Velofy is a robust, extensible backend server for media management and streaming, built with [FastAPI](https://fastapi.tiangolo.com/). It provides secure user authentication, efficient media handling, and a modern API for web and mobile clients. Velofy is designed for easy expansion, rapid development, and seamless integration with your home media setup.
+**Velofy** is a robust, extensible backend server for **media management and streaming**, built with [FastAPI](https://fastapi.tiangolo.com/). It provides 🔒 secure user authentication, 🎥 efficient media handling, and a modern API for web and mobile clients. Designed for rapid development and seamless integration with your home media setup, Velofy is your personal Netflix-style media server. 🚀
 
----
+* * *
 
-## Features
+✨ Features
+----------
 
-- **User Authentication**: Secure JWT-based login, registration, and user management.
-- **Media Management**: Endpoints for listing, searching, and streaming movies and media files.
-- **Watch History**: Track and update user watch progress for each movie.
-- **Metadata Extraction**: Automated movie metadata extraction from local files using IMDb.
-- **Database Integration**: Uses SQLModel (built on SQLAlchemy and Pydantic) for ORM and data validation.
-- **Custom Exception Handling**: Clear, consistent error messages for common issues and missing resources.
-- **Health & Version Endpoints**: For monitoring, deployment checks, and CI/CD integration.
-- **Development Ready**: Optimized for hot reloading, rapid iteration, and easy debugging.
-- **Extensible Architecture**: Modular codebase for adding new features and endpoints.
-- **CI/CD Friendly**: Includes linting workflows for code quality.
+*   🔐 **User Authentication** – JWT-based login, registration & profile management.
+*   🎞️ **Media Management** – List, search, stream, and manage movies.
+*   📼 **Watch History** – Track and update watch progress per user.
+*   🧠 **Metadata Extraction** – Auto-fetch movie metadata from IMDb.
+*   🗃️ **Database Integration** – ORM with SQLModel (SQLAlchemy + Pydantic).
+*   🚨 **Custom Exception Handling** – Consistent and clear error responses.
+*   ❤️ **Health & Version Endpoints** – Easy monitoring and CI/CD support.
+*   ⚙️ **Dev Ready** – Hot reloading, easy debugging, modular structure.
+*   🧱 **Extensible Architecture** – Plug-and-play new features or endpoints.
+*   ✅ **CI/CD Friendly** – Includes linting workflows for code quality.
 
----
+* * *
 
-## Project Structure
+📁 Project Structure
+--------------------
 
-```
-Velofy-Server/
-├── app/
-│   ├── app.py                # FastAPI app initialization and router inclusion
-│   └── routes/
-│       ├── auth.py           # Authentication endpoints
-│       └── movies.py         # Movie/media endpoints
-├── jobs/
-│   └── movie/
-│       ├── interfaces.py     # TypedDicts for movie metadata
-│       └── metadata_extractor.py # Script to extract movie metadata from files
-├── schemas/                  # Pydantic schemas for API validation
-│   ├── __init__.py
-│   ├── auth.py
-│   └── movies.py
-├── models.py                 # SQLModel ORM models
-├── database.py               # Database session and engine setup
-├── exceptions.py             # Custom FastAPI exceptions
-├── app_config.py             # App and environment configuration
-├── init_db.py                # Script to initialize the database
-├── server.py                 # Entrypoint for running the server with Uvicorn
-├── movie_metadata.json       # Example output of metadata extraction
-├── requirements.txt          # Python dependencies
-├── VERSION                   # App version
-├── LICENSE                   # Project license
-└── .github/
-    └── workflows/
-        └── pylint.yml        # CI for linting
-```
+    Velofy-Server/
+    ├── app/
+    │   ├── app.py
+    │   └── routes/
+    │       ├── auth.py
+    │       └── movies.py
+    ├── jobs/
+    │   └── movie/
+    │       ├── interfaces.py
+    │       └── metadata_extractor.py
+    ├── schemas/
+    │   ├── __init__.py
+    │   ├── auth.py
+    │   └── movies.py
+    ├── models.py
+    ├── database.py
+    ├── exceptions.py
+    ├── app_config.py
+    ├── init_db.py
+    ├── server.py
+    ├── movie_metadata.json
+    ├── requirements.txt
+    ├── VERSION
+    ├── LICENSE
+    └── .github/
+        └── workflows/
+            └── pylint.yml
 
----
+* * *
 
-## Getting Started
+🚀 Getting Started
+------------------
 
-### 1. Clone the Repository
+### 1\. 🧾 Clone the Repository
 
-```sh
-git clone https://github.com/yourusername/Velofy-Server.git
-cd Velofy-Server
-```
+    git clone https://github.com/yourusername/Velofy-Server.git
+    cd Velofy-Server
 
-### 2. Install Dependencies
+### 2\. 📦 Install Dependencies
 
-It is recommended to use a virtual environment.
+    python -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
 
-```sh
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+### 3\. ⚙️ Configure Environment
 
-### 3. Configure Environment
+Edit `app_config.py` or set environment variables:
 
-- Edit `app_config.py` or set environment variables as needed:
-  - `MEDIA_DIR`: Path to your media directory (default: `<project>/media`)
-  - `SECRET_KEY`: Secret key for JWT (default: `"default"`)
-  - `MOVIE_MEDIA_DIR`: Path to your movies directory (default: `<MEDIA_DIR>/movies`)
-- You can also create a `.env` file for environment variables.
+*   `MEDIA_DIR`: Path to your media folder (default: `./media`)
+*   `MOVIE_MEDIA_DIR`: Folder for movie files (default: `./media/movies`)
+*   `SECRET_KEY`: JWT signing secret
 
-### 4. Initialize the Database
+### 4\. 🗄️ Initialize the Database
 
-```sh
-python init_db.py
-```
+    python init_db.py
 
-### 5. (Optional) Extract Movie Metadata
+### 5\. 🧠 Extract Movie Metadata (Optional)
 
-To scan your movie directory and generate `movie_metadata.json`:
+    python jobs/movie/metadata_extractor.py --media-path /path/to/your/movies
 
-```sh
-python jobs/movie/metadata_extractor.py --media-path /path/to/your/movies
-```
+### 6\. ▶️ Run the Server
 
-### 6. Run the Server
+    python server.py
 
-```sh
-python server.py
-```
+Visit: [http://localhost:8000](http://localhost:8000)
 
-The API will be available at [http://localhost:8000](http://localhost:8000).
+* * *
 
----
+📡 API Overview
+---------------
 
-## API Overview
+### 🔐 Authentication
 
-### Authentication
+*   `POST /auth/login` – Login & get JWT
+*   `POST /auth/register` – Create new user
+*   `GET /auth/me` – View profile (auth required)
+*   `PUT /auth/me` – Update profile
+*   `DELETE /auth/me` – Delete account
 
-- `POST /auth/login` — User login, returns JWT token.
-- `POST /auth/register` — Register a new user.
-- `GET /auth/me` — Get current user info (JWT required).
-- `PUT /auth/me` — Update user info.
-- `DELETE /auth/me` — Delete user account.
+### 🎬 Movies & Media
 
-### Movies & Media
+*   `GET /media/movies/` – List movies (filter, sort, paginate)
+*   `GET /media/movie/{id}` – Get movie details
+*   `GET /media/stream/{id}` – Stream movie file
+*   `GET /media/subtitle/{id}` – Download subtitles
+*   `POST /media/watch/{id}` – Log watch entry
+*   `PUT /media/watch/{id}` – Update watch progress
+*   `GET /media/watch/{id}` – View watch status
 
-- `GET /media/movies/` — List all movies (with filtering, sorting, and pagination).
-- `GET /media/movie/{movie_id}` — Get details for a specific movie.
-- `GET /media/stream/{movie_id}` — Stream a movie file.
-- `GET /media/subtitle/{movie_id}` — Download subtitles for a movie.
-- `POST /media/watch/{movie_id}` — Log watch history.
-- `PUT /media/watch/{movie_id}` — Update watch progress.
-- `GET /media/watch/{movie_id}` — Get watch history for a movie.
+### 💓 Health & Version
 
-### Health & Version
+*   `GET /health` – Health check
+*   `GET /version` – App version
 
-- `GET /health` — Health check endpoint.
-- `GET /version` — Get server version.
+* * *
 
----
+🧬 Database Models
+------------------
 
-## Database Models
+*   **User** – Login credentials and profile
+*   **Movie** – Metadata and media path
+*   **Cast** – Actor/director info
+*   **WatchHistory** – Progress tracking
+*   **MovieCastLink** – M:N relationship table
 
-- **User**: Stores user credentials and profile.
-- **Movie**: Stores movie metadata and file info.
-- **Cast**: Stores cast/crew info.
-- **WatchHistory**: Tracks user watch progress.
-- **MovieCastLink**: Many-to-many relationship between movies and cast.
+* * *
 
-See [`models.py`](models.py) for full details.
+🧠 Metadata Extraction
+----------------------
 
----
+The script `metadata_extractor.py` scans your movie folder, uses IMDb APIs, and creates structured JSON. Type definitions are in `interfaces.py`.
 
-## Metadata Extraction
+* * *
 
-The script [`jobs/movie/metadata_extractor.py`](jobs/movie/metadata_extractor.py) scans your movie directory, fetches metadata from IMDb, and outputs a JSON file. It uses [`jobs/movie/interfaces.py`](jobs/movie/interfaces.py) for type definitions.
+🧑‍💻 Development
+-----------------
 
----
+*   🔁 **Hot Reload** – Enabled via Uvicorn
+*   🧹 **Linting** – Uses Pylint (CI pipeline)
+*   🧪 **Testing** – Add unit tests via `pytest` or `unittest`
+*   ⚙️ **Config** – All in `app_config.py`
 
-## Development
+* * *
 
-- **Hot Reload**: Enabled by default with Uvicorn (`reload=True` in `server.py`).
-- **Linting**: Uses Pylint (see [`.github/workflows/pylint.yml`](.github/workflows/pylint.yml)).
-- **Testing**: Add your own tests using [pytest](https://docs.pytest.org/) or [unittest](https://docs.python.org/3/library/unittest.html).
-- **Configuration**: All configuration is centralized in [`app_config.py`](app_config.py).
+📦 Deployment
+-------------
 
----
+*   Use **Uvicorn** or **Gunicorn** with Nginx in production
+*   Set `reload=False` and use a strong `SECRET_KEY`
+*   Recommended: PostgreSQL for production database
 
-## Deployment
+* * *
 
-- For production, run with Uvicorn or Gunicorn behind a reverse proxy (e.g., Nginx).
-- Set `reload=False` and use a strong `SECRET_KEY`.
-- Use a production-ready database (e.g., PostgreSQL).
+🤝 Contributing
+---------------
 
----
+Contributions are welcome! 🛠️
 
-## Contributing
+*   Please lint your code
+*   Use meaningful commit messages
+*   Open an issue for major changes
 
-Pull requests are welcome! Please lint your code and write clear commit messages. For major changes, open an issue first to discuss what you would like to change.
+* * *
 
----
+📜 License
+----------
 
-## License
+Licensed under the **MIT License**. See `LICENSE` for details.
 
-MIT License
+* * *
 
----
+🙏 Acknowledgements
+-------------------
 
-## Acknowledgements
+*   [FastAPI](https://fastapi.tiangolo.com/)
+*   [SQLModel](https://sqlmodel.tiangolo.com/)
+*   [Cinemagoer (IMDbPY)](https://cinemagoer.github.io/)
+*   [Pydantic](https://docs.pydantic.dev/)
+*   [Uvicorn](https://www.uvicorn.org/)
 
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [SQLModel](https://sqlmodel.tiangolo.com/)
-- [Cinemagoer (IMDbPY)](https://cinemagoer.github.io/)
-- [Pydantic](https://docs.pydantic.dev/)
-- [Uvicorn](https://www.uvicorn.org/)
+* * *
 
----
+📬 Contact
+----------
 
-## Contact
+For help or feedback, open an issue or contact the maintainer via GitHub.
 
-For questions or support, open an issue or contact the maintainer.
-
----
-
-**Happy streaming!**
+**🍿 Happy streaming with Velofy!**
