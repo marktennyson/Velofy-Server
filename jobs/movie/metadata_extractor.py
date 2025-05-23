@@ -18,25 +18,25 @@ def extract_casts(movie_obj: Dict[str, Any]) -> List[Cast]:
         msg = typer.style("✅ Parsing Details for: ", fg=typer.colors.BRIGHT_WHITE)+typer.style(f"{person.get("name")}", fg=typer.colors.BRIGHT_GREEN)
         typer.echo(msg)
         try:
-            personObj = ia.search_person(person.get("name"))
+            personObj = ia.get_person(person.personID)
         except:
             personObj = None
         casts.append({
             "name": person.get('name', 'Unknown'),
             "role": "Actor",
-            "image_url": personObj[0].get('full-size headshot', None) if personObj else None,
+            "image_url": personObj.get('full-size headshot') or personObj.get('headshot', None) if personObj else None,
         })
     for person in movie_obj.get('director', []):
         msg = typer.style("✅ Parsing Details for: ", fg=typer.colors.BRIGHT_WHITE)+typer.style(f"{person.get("name")}", fg=typer.colors.BRIGHT_GREEN)
         typer.echo(msg)
         try:
-            personObj = ia.search_person(person.get("name"))
+            personObj = ia.get_person(person.personID)
         except:
             personObj = None
         casts.append({
             "name": person.get('name', 'Unknown'),
             "role": "Director",
-            "image_url": personObj[0].get('full-size headshot', None) if personObj else None,
+            "image_url": personObj.get('full-size headshot') or personObj.get('headshot', None) if personObj else None,
         })
     return casts
 
