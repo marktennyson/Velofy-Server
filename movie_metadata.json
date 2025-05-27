@@ -161,6 +161,617 @@
     "location": "/Users/aniketsarkar/Desktop/movies/tt34388152.mkv"
   },
   {
+    "imdb_id": "tt11318364",
+    "name": "Belashuru",
+    "duration": 2.0,
+    "rating": 7.1,
+    "casts": [
+      {
+        "name": "Soumitra Chatterjee",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjI5Mjk4NDc3Ml5BMl5BanBnXkFtZTgwMjczMTI1NTE@.jpg"
+      },
+      {
+        "name": "Swatilekha Sengupta",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Rituparna Sengupta",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzk5MGI0OTQtNGYzZS00NzAwLTlmZjgtNzU1MGI2NjZiNjJiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Aparajita Adhya",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BN2MwM2YwZDAtYzJjMS00YThhLTg3NjgtNzQ2NjA0YjU2M2IzXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Monami Ghosh",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTYwZTI0OGYtM2YyNy00MjhkLTg2YmQtNjBhYzkxNjhjYzQwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Indrani Dutta",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kharaj Mukherjee",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYjljZTYyODAtMTEyNy00ODViLThhMTAtYjM4OGEwNDJjODNlXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Anindya Chatterjee",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZjQ3MjM1MGYtZjJlMi00NTI1LTllYTctODUxZjM5Y2RiMDNhXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Shankar Chakraborty",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMzcxMGEwNmItN2Y4Yy00MDg3LWEyZWUtOGNhMDhhMzNjMDdiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Sujoy Prosad Chatterjee",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTA1N2JhOTEtYzhmMS00MjI1LWFkZjUtMzdhYzc2MmFlMTVjXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Sayak Chakraborty",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Arunima Halder",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Rishita Pramanik",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Shiboprosad Mukherjee",
+        "role": "Director",
+        "image_url": null
+      },
+      {
+        "name": "Nandita Roy",
+        "role": "Director",
+        "image_url": null
+      }
+    ],
+    "category": "Drama",
+    "size": 4.07,
+    "published_year": 2022,
+    "filename": "tt11318364.mkv",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTAyOTMxNjYtOTU4MS00MGVkLWJmNDUtYzMyZWU1ZWNmZTE4XkEyXkFqcGc@._V1_SY150_CR2,0,101,150_.jpg",
+    "plot": [
+      "Life of an elderly couple and the bond that parents, children and other members of the family share together in a Indian family in Bengal."
+    ],
+    "synopsis": "",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/movies/tt11318364.mkv"
+  },
+  {
+    "imdb_id": "tt4425200",
+    "name": "John Wick: Chapter 2",
+    "duration": 2.0,
+    "rating": 7.4,
+    "casts": [
+      {
+        "name": "Keanu Reeves",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNDEzOTdhNDUtY2EyMy00YTNmLWE5MjItZmRjMmQzYTRlMGRkXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Riccardo Scamarcio",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTIwNzk5MjE5OF5BMl5BanBnXkFtZTcwODU2NTIzMQ@@.jpg"
+      },
+      {
+        "name": "Ian McShane",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMmMyNDcwMDgtMmIxNC00NTcyLWIwMmItNDQzNmJjNmVhYjhhXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Ruby Rose",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTcwOTg3NzgyNF5BMl5BanBnXkFtZTgwNzAyNDkyOTE@.jpg"
+      },
+      {
+        "name": "Common",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzg4MTk5NDM1MV5BMl5BanBnXkFtZTcwMTM5OTQzMw@@.jpg"
+      },
+      {
+        "name": "Claudia Gerini",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzk5YjI2YTYtYzI0Mi00YzgxLWIyYTYtZDU4Nzg1MTgyMTc3XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Lance Reddick",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMDBkNjVlYzItOGM4MC00MDU3LWFmMWItMjhjOTM3MGRkYWUxXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1.jpg"
+      },
+      {
+        "name": "Tobias Segal",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwMTExNTM2OV5BMl5BanBnXkFtZTgwNzQzMzM0NTE@.jpg"
+      },
+      {
+        "name": "John Leguizamo",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNTEyMjMxNDg5NF5BMl5BanBnXkFtZTcwNzczOTY4MQ@@.jpg"
+      },
+      {
+        "name": "Bridget Moynahan",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0Nzc3ODE3OF5BMl5BanBnXkFtZTcwNDQxOTU3MQ@@.jpg"
+      },
+      {
+        "name": "Thomas Sadoski",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMGI5MTA3NDQtMDU0NC00ZmJiLTk5OGUtY2UwNDE0YzI0MTk2XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Eric Frandsen",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZGEyYzNmZWUtOTAyNC00YjU0LWJlYjktZWNjYWJkNDg0Y2QwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "David Patrick Kelly",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1NzMzODkwOF5BMl5BanBnXkFtZTYwODE2MDcy.jpg"
+      },
+      {
+        "name": "Perry Yung",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMmQxYThjZDEtYmFlNC00NWY0LTg0YmUtNjdiZjllNmZkMjY0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Franco Nero",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYThiY2I5ZWQtYmM5Ni00OGRlLTk3NDYtYWZiOWIzOTUwMzVjXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Youma Diakite",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Peter Serafinowicz",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZjFhNmIyYTQtOTI4ZC00ODQ0LWEyMTktOTdkYjhiZDU1YzMwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Luca Mosca",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzBmMGIxZDMtY2YyMS00ZjRmLTg5NzktNDZiMmE3NDE1MDg4XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Midori Nakamura",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNTFiNTU5YjQtMmM5Zi00NjljLTliMDItYTc0MDY2MTZlNzYwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Mario Donatone",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwMDA0OTY3OF5BMl5BanBnXkFtZTcwNzQyOTUzOA@@.jpg"
+      },
+      {
+        "name": "Giorgio Carminati",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Elli",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxNjI1ODkwNF5BMl5BanBnXkFtZTcwMTAzMDgyMQ@@.jpg"
+      },
+      {
+        "name": "Thaddeus Daniels",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Margaret Daly",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZGUzMzZhMzMtYjdhOC00Nzc0LWIxNzgtYzBjNWMyMWRmZjY5XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Christine Hollingsworth",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Ciscandra Nostalghia",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Chukwudi Iwuji",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMDg4YTNmNmItZWQ1Ni00Nzk1LTliY2ItOTA2MTgxOWNmNTVjXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTUyMDQ0MTEyNF5BMl5BanBnXkFtZTYwNDYxMDkz.jpg"
+      },
+      {
+        "name": "Vadim Kroll",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Simone Spinazze",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BM2ZjNGNhMDctMGM2NC00MzFjLWFkNTUtOTlhMDQzOWJjN2UwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Chris LaPanta",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Guyviaud Joseph",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjM1Y2EyZDMtYWViNS00NDk4LWJiZDgtYTljYjljNzk1YTQ0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Diane Gooch",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Alisa Ermolaev",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNmVhYWY3MjItZmE1My00ODRiLWI3ZjctOTU4NDIwMzRiMzRjXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Kelly Rae LeGault",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODY1N2Q5ZGUtMDFiNi00MDMyLWIzY2QtYWU4ODU1NDBlOTAzXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Wass Stevens",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYmY3NmY3YTYtMmYyOS00MjUwLTkxNDctZDFjNDNmMDA2NDhhXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Joan Smalls",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5MjIyMzIyNl5BMl5BanBnXkFtZTcwNzg5ODQ1OQ@@.jpg"
+      },
+      {
+        "name": "Basil Iwanyk Sr.",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Yama",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Airon Armstrong",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDcxOTE2N15BMl5BanBnXkFtZTcwNTc2NjgyOQ@@.jpg"
+      },
+      {
+        "name": "Cat Ascienzo",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzIyZjJmNmYtODhjYy00YmQ2LWI0N2EtYzJmODI3MWI4YjMzXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Aaron Ayhan",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Cypress Bates",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Jae Benjamin",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMThhODQ1N2UtNTdkYS00Nzg4LTk4ZGQtMDlmZjQ5OWQzNTZiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Joel Brody",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Marko Caka",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOGFmNDI0YmUtOWJkZS00ODRiLWFjZDYtOTJkODI5ZjQwZDI0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Kadrolsha Ona Carole",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ2NzQ2YjgtNzZkNS00YzEwLWI1ZDgtODA2ZTk3ZjIyMjY1XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Jason Catron",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjVmNDVhOTAtYTE4My00MmM4LTg1YzAtNjkyYTg3OWY1MmI2XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Nancy Cejari",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Garrett Ching",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kody Christiansen",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTMzMDlmZDItOThiZC00ZTljLWIyZGItNzhhNjdjNGE1MjVkXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Aaron Cohen",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYWM1YjNmZjUtYmU3MC00MTAzLWFkZDYtOTkyYzFkNjNjYzIwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Victor Competiello",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZDYwODc0ZDYtNDhlMi00Yjk1LWE0NWYtODI2YjY3YTdjZGUzXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Tim Connolly",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNmI1NTA3ZWYtNzA0MC00MDMwLTlkNjAtNTc1ZTdmMzA1MGY0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Marmee Regine Cosico",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kitty Crystal",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTM1MDc0NDYwNl5BMl5BanBnXkFtZTgwNjQ5OTM2MjE@.jpg"
+      },
+      {
+        "name": "Ottaviano Dell'Acqua",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzBiNWZkZGQtYjNiMC00YzIyLWI0OGEtYjk2YzRhMTdmMDc5XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Stephen Dill",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Stephen Dunlevy",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMDIzNWExZGQtZDU0Yi00ZGUwLWE4MDUtMjZhODNhNDgyZDUwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Anthony Romeo Garcia",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Jack Hammel",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzQ5ZWM0MDYtZWNkOC00NWE0LWJjZmItNzFjNGMzYzllNTdiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Patricia Hodges",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMzEzOTI2NjUxNF5BMl5BanBnXkFtZTcwMTczNTQyNQ@@.jpg"
+      },
+      {
+        "name": "Kimberly L. Jackson",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyNzU3NTkxMV5BMl5BanBnXkFtZTgwMTQ2NzIwODE@.jpg"
+      },
+      {
+        "name": "Marco Lascari",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNDEwYzEwMDktOGYwYi00ODcwLWFhZGEtZmE0ZjQwODM5N2E4XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Faith Logan",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMmQwMDcwODMtYmVjZS00ODZkLTk0NTItMWIyNmFkODFjNWM4XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Aly Mang",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYTBiOGU4Y2YtMDFmMy00ZGZiLWFlMzktOWU5ZmI4NjM0OWQ4XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Doris McCarthy",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjViNjU1M2ItMGIzNC00MWNkLWFjZjItM2NhMDJjNmQ5NmJkXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Gary McNerney",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Frank Modica",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BM2JmZDhhZGYtMDcxNi00MzIxLTgwMmUtYmNmNzcxMmIwYzBmXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Ron Molera Jr.",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOGMzN2E2YTAtZDI3OS00ODkwLWJiZTAtZmNkMTE3MGJjYmFjXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Heidi Moneymaker",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODgzNDBiYTUtZDdjOC00MGY4LWFiNWQtOTJjNWEwYzI2MWMxXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Niko Nedyalkov",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjIwOTA3OTc0MF5BMl5BanBnXkFtZTgwOTMzMzE4NzE@.jpg"
+      },
+      {
+        "name": "Stephanie Ng Wan",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYWY5ZTg3ZTItMzYyMy00MmJkLTlhYzEtYTFmM2U2NDIyNWRhXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Johnny Otto",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Angel Pai",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYWRlMTQyNDgtODJjNS00ZjgxLWI5NGMtYWQ0ZGEzMzgzYWFhXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Christopher Parker",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNGJjMjc2OTQtZjgzNC00MTkzLTkwN2EtMzdjODU5OTc3ZmJiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Patrizio Pelizzi",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNDEyNjgxMWUtOWNiOC00Yjg3LWE4NTMtNjFjYWM0YzdlMjJkXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Francesco Petrazzi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Oleg Prudius",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZTU5MGQyNTQtNWUxZi00YzYwLWFlOWItNjdlODRhNjMwNmZjXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Nikki Rapp",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Shade Rupe",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMDg4NDcyNV5BMl5BanBnXkFtZTcwMjk4NjMzMQ@@.jpg"
+      },
+      {
+        "name": "Gianluigi Scilla",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kenny Sheard",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZmNiY2U2Y2YtMmI3NC00NzBlLTgzOWQtMzkzMWRhOGRlZTAwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Nobuya Shimamoto",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMDAzMDlkNTMtOGMzMS00ZjdmLThkM2MtODE1M2Q1MjcyOWU4XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Jimmy Star",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNjJmOGM3ZGQtOWQ0MS00NTU0LTg5NGMtY2EzZDJlNWE5NDU2XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Nico Toffoli",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMmE4NDdmODMtNGFhOC00YTVhLWI5MTMtZWU2MDc2NTY2MWMyXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Marcus Troy",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTkxMDA2YmQtMWRmNi00YWQ1LWI3YmEtZDQ4YmQ3M2Y4M2M1XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Bruno Verdirosi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Frankie Verroca",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMWIxOWY0ZWEtZjZhNC00YTg1LThiMzQtOWMyZGZlMzAzNzMzXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Mark Vincent",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjgyMjdlZTktMzI5Mi00ZjMxLTkzNmEtYjIxOGY4OTdmOWU0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Dametri F. Wabby",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Bill Walters",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNWFmZWVmZTMtNTM4MS00MmI1LWJkZTktM2RhNzZmMThkMmJiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Justin L. Wilson",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTFiYTJmYTUtMjdmNy00N2IxLThhYWEtOTk1YWE0N2Y2ZDI0XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "McManus Woodend",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOWQxOTBmZTctYmY2ZS00OWY4LTlhNGYtYmFkNGEwZjE5Y2MwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "John Robert Woodlock",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Alex Xenos",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Alex Ziwak",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTY3ODNjYzEtY2NjZS00OGNkLWJlYzktNmI5NTBlMTM3Y2VmXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Chad Stahelski",
+        "role": "Director",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNjgwNzc0NTc2Nl5BMl5BanBnXkFtZTgwMjM0NzEzMDI@.jpg"
+      }
+    ],
+    "category": "Action",
+    "size": 2.63,
+    "published_year": 2017,
+    "filename": "tt4425200.mkv",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_SX101_CR0,0,101,150_.jpg",
+    "plot": [
+      "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.",
+      "Bound by an inescapable blood debt to the Italian crime lord, Santino D'Antonio, and with his precious 1969 Mustang stolen, John Wick--the taciturn and pitiless assassin who thirsts for seclusion--is forced to visit Italy to honour his promise. But, soon, the Bogeyman will find himself dragged into an impossible task in the heart of Rome's secret criminal society, as every killer in the business dreams of cornering the legendary Wick who now has an enormous price on his head. Drenched in blood and mercilessly hunted down, John Wick can surely forget a peaceful retirement as no one can make it out in one piece.—Nick Riganas"
+    ],
+    "synopsis": [
+      "John Wick recovers his stolen Ford Mustang from Abram Tarasov, the late Viggo's brother.[a] Wick dispatches Tarasov's men in a violent rampage that heavily damages the Mustang but spares Tarasov under the promise of peace and returns home. Wick has his Mustang taken for repairs by chop-shop owner Aurelio.John is visited by the Camorra crime boss Santino D'Antonio, who reminds him that he helped John complete his \"impossible task,\" which allowed John to retire and marry Helen. In return, John swore to a \"marker,\" an unbreakable vow symbolized by a \"blood oath\" medallion. Santino presents the marker to demand services from John, who declines, so Santino retaliates by destroying John's house with a grenade launcher. John survives and travels to the Continental Hotel in New York City. Winston, the hotel's owner, reminds him that if he rejects the marker, he will violate one of the underworld's two unbreakable rules: no killing on Continental grounds and honoring every marker, and if anyone refuses, they will be excommunicated. John reluctantly accepts his commitment and meets with Santino, who tasks him with assassinating his sister, Gianna, so that he can claim her seat at the \"High Table,\" a council of twelve high-level crime bosses. Santino sends Ares, his mute bodyguard, to observe John's mission.In Rome, Italy, John infiltrates Gianna's coronation, confronting her in her dressing room. Faced with certain death, Gianna chooses to slit her wrists. As Gianna dies, John shoots her in the head to end her suffering and fulfill the marker. As John leaves, Gianna's bodyguard, Cassian, recognizes him, realizes that he was sent to kill Gianna, and attacks him. John flees to the catacombs, where he is double-crossed by Ares and Santino's henchmen, who intend to kill him. After killing most of the henchmen, Cassian pursues John again. Their fight leads them into the Rome Continental's reception area, where \"conducting business\" is strictly forbidden, as it is in the New York Continental. As the two share a drink, John explains his reason for killing Gianna. Nevertheless, Cassian promises John a quick and clean death as a sign of professional respect.Julius, Rome's Continental manager, arranges safe passage for John back to New York as Santino opens a contract to kill John, ostensibly to avenge his sister's death. This leads numerous assassins to unsuccessfully attack John, during which Winston visits Santino to complete the marker, thus freeing John from being unable to move against him. Winston warns Santino that he \"stabbed the devil in the back\" and that he will be unprepared for John's wrath.Injured from numerous attempted assassinations, John is then confronted by Cassian in the subway. After a vicious fight culminating in Cassian being stabbed in the aorta, John spares him. The badly injured John seeks help from an underground crime boss, the Bowery King, whose subordinates treat John's injuries. Intrigued by John's intent to kill a member of the High Table, the Bowery King sportingly gives him a Kimber M1911 pistol with only seven bullets, one for each million of the contract. He directs John to an art museum where Santino holds a gala. John pursues Santino throughout the museum, killing his henchmen, including Ares, who gives Santino enough time to escape to the Continental, where he intends to remain indefinitely in its sanctuary. Despite Winston's warnings, the exasperated John kills Santino in the Continental lounge.The next day, Winston meets with John and explains that the Camorra has doubled the contract on John, offering it globally. Further, for \"conducting business\" on Continental grounds, per the High Table's rules, Winston is forced to declare John \"excommunicado,\" terminating all his access and privileges to underworld resources. However, Winston delays activating John's excommunication by one hour (giving him a head start) and provides him with a marker for future use. Before leaving, John advises Winston to warn every other High Table assassin that he will kill anyone who tries to hunt him. John departs with his dog as Winston calls to enact John's \"excommunicado\" to be activated in one hour. As news of the imminent contract disseminates, cellular phones ring around John, and he begins to run."
+    ],
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/movies/tt4425200.mkv"
+  },
+  {
     "imdb_id": "tt0063023",
     "name": "The Adventures of Goopy and Bagha",
     "duration": 2.0,
@@ -354,5 +965,767 @@
     "synopsis": "",
     "subtitles": "Not Available",
     "location": "/Users/aniketsarkar/Desktop/movies/tt0063023.mp4"
+  },
+  {
+    "imdb_id": "tt7466810",
+    "name": "777 Charlie",
+    "duration": 2.0,
+    "rating": 8.7,
+    "casts": [
+      {
+        "name": "Rakshit Shetty",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjM4NTQ0NzI0OF5BMl5BanBnXkFtZTgwMzQ0MzM2MjE@.jpg"
+      },
+      {
+        "name": "Charlie",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Sangeetha Sringeri",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Raj B. Shetty",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZTYzMzY2MDAtNWM3Yy00OGNkLWE5NzAtMjI4MWJiZTZjYjdiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Bobby Simha",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNWRkYjhjNTAtNWE4Ni00OTdhLTkwZTgtY2JmY2Y3ZWZmZGQzXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Danish Sait",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Sharvari",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Aniruddh Roy",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Harini",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Siddharth Bhat",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Praanya P. Rao",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Anirudh Mahesh",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Gopalkrishna Deshpande",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Abhijit Mahesh",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Bengaluru Nagesh",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Salman Ahmed",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Dhanraj Shivkumar",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Vijay Vikram Singh",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTgzMDBjNzItNTBhMC00NTNhLTk3NmUtMzA3MGExMzI3NDEyXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "H.G. Somashekar Rao",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Bhargavi Narayan",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kiranraj K",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZjc3YTExMjEtZWUyYi00ZmI4LTkyZmEtYzg4NjE5NzExMTY5XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Arnav",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Paddu Bhushan",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Naveen Ellangala",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Geetha",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Dev Raj Ghosh",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Nidhi Hegde",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Basavaraj Katti",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Lavya Kc",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Varsha Kodgi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Dinesh Mangaluru",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mohan",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kiran Nayak",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mime Ramdas",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOWIzMDlhNGUtZTc4YS00N2UyLTkyNzItNGZkMDE1M2YzMzE1XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Sheela Rao",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Suma Rao",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Pratheek Shetty",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Preetha Shetty",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Skanda",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Srivatsa",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Triveni",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Vishwa Vijetha",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Hani Yadav",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kiranraj K",
+        "role": "Director",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZjc3YTExMjEtZWUyYi00ZmI4LTkyZmEtYzg4NjE5NzExMTY5XkEyXkFqcGc@.jpg"
+      }
+    ],
+    "category": "Adventure",
+    "size": 2.6,
+    "published_year": 2022,
+    "filename": "tt7466810.mkv",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWY4MzlmNjItZGYzMS00ZDVhLWI2ZDMtNWEwZTBiMmU0YzQ4XkEyXkFqcGc@._V1_SY150_CR0,0,101,150_.jpg",
+    "plot": [
+      "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie enters his life and gives him a new perspective towards it.",
+      "The protagonist is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which makes him complete contrast with the protagonists' character enters his life and gives him a new perspective towards it."
+    ],
+    "synopsis": "",
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/movies/tt7466810.mkv"
+  },
+  {
+    "imdb_id": "tt1136608",
+    "name": "District 9",
+    "duration": 2.0,
+    "rating": 7.9,
+    "casts": [
+      {
+        "name": "Sharlto Copley",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1MjU2MzkzNF5BMl5BanBnXkFtZTgwNDIzMjIwMjI@.jpg"
+      },
+      {
+        "name": "Jason Cope",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "David James",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Vanessa Haywood",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mandla Gaduka",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kenneth Nkosi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Eugene Khumbanyiwa",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNGJlMWNlYTMtNDQ1Yi00MmJhLWI1MmEtMzAxNDgyOGI4NzYwXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Louis Minnaar",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "William Allen Young",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjMzMDc3NjQ4OV5BMl5BanBnXkFtZTgwMzM4MjI5NjE@.jpg"
+      },
+      {
+        "name": "Nat Boltt",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNWYwZDllYzEtOTYxYS00ZmFkLTlkODEtMDI3MzExNWM1ZWExXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Sylvaine Strike",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzkzMmY4MTgtMTU1Yi00YzdhLTkyNDItNTcyYzNlZGRkZWExXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Elizabeth Mkandawie",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "John Sumner",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTE5NjcyMzg3NV5BMl5BanBnXkFtZTYwNzIxOTYy.jpg"
+      },
+      {
+        "name": "Greg Melvill-Smith",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Nick Blake",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Morena Busa Sesatsa",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Themba Nkosi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mzwandile Nqoba",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Barry Strydom",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Jed Brophy",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjA3MDc1MzM1Nl5BMl5BanBnXkFtZTgwNzA0MTc2NzE@.jpg"
+      },
+      {
+        "name": "Marian Hooman",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Vittorio Leonardi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Johan van Schoor",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Stella Steenkamp",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mampho Brescia",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Tim Gordon",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Morne Erasmus",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Anthony Bishop",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNGM1MTBkMDYtN2YzYy00ZjMyLWEyZjUtZGRhMTViNjRiYzNmXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "David Clatworthy",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mike Huff",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Anthony Fridjhon",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Hlengiwe Lushaba",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Siyabonga Radebe",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Melt Sieberhagen",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Andre Odendaal",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Jonathan Taylor",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "John Ellis",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Louise Saint-Claire",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Alan Glauber",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Nicolas Herbstein",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Norman Anstey",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Nick Boraine",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BY2E1MmEwYTktMTM1ZC00ZWVlLWI4YjgtMjU2ODEzODdkM2U3XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Robert Hobbs",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwMTQ2Mzg5Ml5BMl5BanBnXkFtZTgwNzQ2NTkzNzE@.jpg"
+      },
+      {
+        "name": "Sibulele Gcilitshana",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mahendra Raghunath",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Phillip Mathebula",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Claudine Bennent",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Michelle Ayden",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Antony Sarak",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Billy Somagaca",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Ryan Whittal",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "John Jacob",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Yashik Maharaj",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Fernando Saraiva",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Sharon Waugh",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Brandon Auret",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYjYyMTBmNDAtZTMwNy00OTRjLThmYTYtYmIyOWI0MjNhMGZjXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Jacques Gombault",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Justin Strydom",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Simo Magwaza",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Theunis Nel",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Sonni Chidiebere",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Matt Stern",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Danny Datnow",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "David Dukas",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3MTM3MjYxNV5BMl5BanBnXkFtZTcwODc3MzAzMQ@@.jpg"
+      },
+      {
+        "name": "Daniel Hadebe",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Wisani Mbokota",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Craig Jackson",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjM5ZDU0ZDEtMzZkMC00MzlmLWE1NDYtYzc1ZGZhNzMzNjJiXkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Justin Duplessis",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Rodney Downey",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Den Antonakas",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Bongo Mbutuma",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Johnny Selema",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mashabela Galane",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mfazwe Sekobane",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Nicholas Ratlou",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Saint Gregory Nwokedi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Donalson Rabisi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Zephania Sibanda",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Gideon Thodane",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mdu Mthabela",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "David Mikhethi",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Jeffries Simelane",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Shafique Allan",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Wendy Mbatha",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Leigh Mashupye",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Beauty Setai",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Nkiyase Mondlana",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Kuda Rusike",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Morena Setatsa",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Mpho Molao",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Ntombi Nkuua",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Absalom Dikane",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Monthandazo Thomo",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Norman Thabalala",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Siphiwe Mbuko",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Shiela Nene",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Neill Blomkamp",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTUxOTE1MjgzMV5BMl5BanBnXkFtZTgwNjQzMzI0NDE@.jpg"
+      },
+      {
+        "name": "Trevor Coppola",
+        "role": "Actor",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BY2VhZWExYTQtZGZmOC00ZjgzLTkzM2EtZGJiZWZiOWMzNmU1XkEyXkFqcGc@.jpg"
+      },
+      {
+        "name": "Peter Muyzers",
+        "role": "Actor",
+        "image_url": null
+      },
+      {
+        "name": "Neill Blomkamp",
+        "role": "Director",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTUxOTE1MjgzMV5BMl5BanBnXkFtZTgwNjQzMzI0NDE@.jpg"
+      }
+    ],
+    "category": "Action",
+    "size": 1.79,
+    "published_year": 2009,
+    "filename": "tt1136608.mkv",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_SY150_CR0,0,101,150_.jpg",
+    "plot": [
+      "In a future Earth in which aliens are isolated in a remote ghetto, a government agent finds himself banished there.",
+      "In 1982, a massive star ship bearing a bedraggled alien population, nicknamed \"The Prawns,\" appeared over Johannesburg, South Africa. Twenty-eight years later, the initial welcome by the human population has faded. The refugee camp where the aliens were located has deteriorated into a militarized ghetto called District 9, where they are confined and exploited in squalor. In 2010, the munitions corporation, Multi-National United, is contracted to forcibly evict the population with operative Wikus van der Merwe in charge. In this operation, Wikus is exposed to a strange alien chemical and must rely on the help of his only two new 'Prawn' friends.—Kenneth Chisholm (kchishol@rogers.com)"
+    ],
+    "synopsis": [
+      "In 1982, a giant extraterrestrial spaceship arrives at Earth and hovers over the South African city of Johannesburg. The doors didn't open for 3 months and finally A human investigation team (who cuts through the doors to enter the spacecraft) finds over one million malnourished aliens (derogatorily called \"Prawns\") inside, and the South African government relocates them to a terrestrial camp called District 9. However, over the years it turns into a slum, and locals from Earth often complain that the aliens are filthy, ignorant lawbreakers who bleed resources from humans.Sarah Livingstone (Nathalie Boltt), a sociologist at Kempton Park University was part of the first contact team. The camp was supposed to be temporary, but since there was no plan, district 9 became permanent. Michael Bloemstein (Vittorio Leonardi), MNU Department of Alien Civil Affairs knows that the aliens are here to stay. Dirk Michaels (William Allen Young), the CEO of MNU.\nIt is theorized that the ship is inoperable as its command module detached and mysteriously \"disappeared\".20 yrs since their arrival, and Following unrest between the aliens and locals (Locals want the aliens gone, as they have acquired arms and are resorting to crime), the government hires Multinational United (MNU), a huge weapons manufacturer, to relocate the aliens (now 1.8 MM of them) to a new camp outside the city. Piet Smit (Louis Minnaar), an MNU executive, appoints MNU employee and his son-in-law Wikus Van De Merwe (Sharlto Copley) (a mild-mannered, bumbling, awkward bureaucrat at the MNU Department of Alien Affairs), to lead the relocation. The \"prawns\" resist and the relocation goes slow.Nigerians are running many scams in district 9, including selling cat food to aliens, cross species prostitution and alien weapons. They are headed by Obesandjo. Many people believed that MNU's plan to relocate the aliens was a cover to get hands on alien weapons, which are bio-engineered to their DNA and hence cannot be operated by humans. Nigerians have the biggest cache of alien weapons, which they have amassed for 20 yrs, without the ability to use them. Obesandjo kills and eats aliens, believing that it would give him the power to use alien weapons.Meanwhile, three aliens, Christopher Johnson (Jason Cope), his young son CJ, and Christopher's friend Paul, search a District 9 garbage dump for alien fuel in Prawn technology, which Christopher has had them spend the last twenty years synthesizing enough of to enact his plan.\nThey finally finish in Paul's shack as the relocation begins, but when Wikus comes to the shack to serve Paul a notice, he finds the hidden container with the fuel and accidentally sprays some of it in his own face while confiscating it. Paul is killed by Koobus Venter (David James), a cruel leader of the MNU mercenaries who takes pleasure in killing the aliens.Wikus begins mutating into a Prawn, starting with his left arm, which was injured after the fuel exposure, and which was hidden under a large bandage. After playing down his symptoms (vomiting, nosebleed, headache, and fingernail and tooth loss), he passes out and is taken to a hospital where his left hand is now discovered to have become a prawn claw. He is transferred to the MNU lab, where researchers perform brutal experiments and discover his chimeric DNA grants him the ability to operate Prawn weaponry, that is biologically restricted for use only by the aliens (humans are biologically unable to make the alien weapons work).\nWanting to capture this human/alien Hybridity before Wikus fully transforms, Smit orders for Wikus's body to be vivisected and harvested for its profitable properties. Wikus, however, overpowers the lab personnel and escapes. While Koobus Venter's forces hunt for him, a smear story is broadcast on television, one that reaches Wikus' wife (who is Smit's daughter) Tania (Vanessa Haywood), claiming Wikus is a wanted fugitive who has contracted a contagious disease from copulating with aliens.Wikus takes refuge in District 9 (since this is only place not under constant surveillance by the humans), accidentally finding Christopher and the mother spaceship's concealed command module drop-ship underneath his slum house. Christopher explains to Wikus that the confiscated fuel is crucial to his plan of reactivating the drop-ship, and if he can get them in the drop-ship to the mothership, he can cure Wikus and reverse his physical transformation. Wikus attempts to acquire weapons from the District 9 Nigerian arms dealer Obesandjo (Eugene Wanangwa Khumbanyiwa), who wants to eat Wikus's alien arm because he believes it will grant him alien abilities. Wikus, however, seizes an alien weapon and, able to use it, escapes with a collection of weapons he and Christopher can use to attempt a retrieval of the alien fuel.Wikus and Christopher then force their way through MNU to the lab and retrieve the fuel. However, after seeing the barbaric experiments MNU has performed on his people in the lab (including a dissected Paul), Christopher tells Wikus he must return home as fast as possible for help and cannot undo Wikus' mutation until he returns in three years, due to the limited supply of the fuel. Enraged, Wikus knocks Christopher down and attempts to fly the drop-ship module to the mothership himself, but it is shot down by Koobus Venter's forces. Venter captures Wikus and Christopher, but Obesandjo's gang ambushes the MNU convoy, seizes Wikus, and brings Wikus to Obesandjo, who prepares to chop off Wikus's prawn arm.Meanwhile, CJ, remaining hidden in the drop-ship, remotely activates the mothership and a large, alien, mechanized battle suit located in Obesandjo's base. The suit guns down the Nigerians, and Wikus enters the suit and rescues Christopher from the mercenaries. Heading to the drop-ship, the two come under heavy human weapons fire, and Wikus stays behind to fend off the mercenaries, buying time for Christopher, who promises to return after three years and heal Wikus, to leave. After all of the other mercenaries are killed, Venter finally cripples the suit and is about to execute Wikus when slum aliens attack and dismember him alive. Christopher makes it into the drop-ship with CJ, and the drop-ship is levitated via a tractor beam back into the mothership, which Christopher then uses to leave Earth.Humanity is left to speculate whether or not Christopher will return to take all the remaining aliens back to their home world, or if he will return to declare war on Earth. MNU's experiments on the alien population are exposed, and the aliens are moved to the new camp, named District 10. Tania finds a metal flower on her doorstep, giving her hope that Wikus is still alive, and a now fully-transformed Wikus is shown in a junkyard crafting the flower for his wife."
+    ],
+    "subtitles": "Not Available",
+    "location": "/Users/aniketsarkar/Desktop/movies/tt1136608.mkv"
   }
 ]
